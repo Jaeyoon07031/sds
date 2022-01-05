@@ -1,0 +1,15 @@
+name: SocialDistancingSim
+main: com.tokyocodingclub.jaeyoon.sds.Main
+version : "2.0"
+api-version: "1.18"
+author : Jaeyoon Lee
+description : Social Distancing Simulator
+commands:
+   sds:
+      description: Controls Social Distancing Simulator!
+      usage: /sds (start|end|set|get)
+      permission: sds.commands
+      permission-message: You don't have permission to control Social Distancing Simulator dude :/
+   shop:
+      description: Used to access the SDS shops!
+      usage: /shop (buy|sell|help)
