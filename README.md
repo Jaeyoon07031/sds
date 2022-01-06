@@ -8,7 +8,7 @@ Support for older (and newer) Minecraft versions *might* come soon.
 
 # Installation
 SDS can be installed like any other normal Minecraft server-side plugin.
-Download the latest .jar from the Github releases page ([Here])(https://github.com/Jaeyoon07031/sds/releases)
+Download the latest .jar from the Github releases page  - [Here](https://github.com/Jaeyoon07031/sds/releases)
 You can then upload it to a Minecraft server like any other server-side bukkit plugin.
 
 ## Getting Started
